@@ -22,6 +22,7 @@ h1 {
     font-size: 400%;
     letter-spacing: 2px;
     font-weight: 400;
+    color: #477282;
 }
 
 #heading {
@@ -48,6 +49,7 @@ ul li a {
     font-size: 140%;
     font-family: roboto, sans-serif;
     padding: 0 20px;
+    color: #477282;
 }
 
 /* footer */
@@ -60,7 +62,7 @@ ul li a {
     text-align: center;
     font-size: 120%;
     padding: 60px 10px;
-    font-weight: 300%;
+    font-weight: bold;
 }
 
 .social-networks {
