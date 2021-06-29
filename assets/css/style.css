@@ -53,3 +53,25 @@ ul li a {
     background-color: azure;
     padding: 0 20px;
 }
+
+/* footer */
+
+.yoga-studio {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: azure;
+    color: #477282;
+    text-align: center;
+    font-size: 120%;
+    padding: 60px 10px;
+    font-weight: 300%;
+}
+
+.social-networks {
+    position: fixed;
+    bottom: 20px;
+    right: 40px;
+    padding: padding: 20em 20px 10px;
+}
