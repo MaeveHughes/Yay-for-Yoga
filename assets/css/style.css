@@ -114,3 +114,39 @@ img {
     padding: 7px 20px 20px;
     font-size: 18px;
 }
+
+.openinghours {
+    text-decoration: bold;
+    text-align: center;
+    border-radius: 50px;
+    margin: 50px;
+    box-shadow: 0 0 10px black;
+    padding: 15px 80px 20px 40px;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.table tr td {
+    font-weight:bold;
+}
+
+.table tr td {
+    padding:10px;
+}
+
+#image-two{
+    width: 80px;
+    display: inline-block;
+}
+
+#image-two img{
+    margin: 60px;
+    float: right;
+    max-width: 800px;
+    height: 360px;
+    padding: 20px 40px 20px 40px;
+    border-radius: 50%;
+    position: absolute;
+    right: 10%;
+    top: 140%;
+}
