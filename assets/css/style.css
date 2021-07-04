@@ -51,24 +51,24 @@ ul li a {
 }
 
 /* footer */
-
-.yoga-studio {
-    position: fixed;
+ footer {
+    position: relative;
     left: 0;
     bottom: 0;
     width: 100%;
     text-align: center;
-    font-size: 120%;
-    padding: 60px 10px;
-    font-weight: bold;
-}
+ }
 
-.social-networks {
-    position: fixed;
-    bottom: 20px;
-    right: 40px;
-    padding: padding: 20em 20px 10px;
-}
+ .yoga-studio {
+     font-size: 22px;
+     float: left;
+     padding: 40px 20px 10px 20px;
+ }
+
+ .social-networks {
+     float: right;
+     padding: 2px 20px 20px 2px
+ }
 
 /* home page */
 
