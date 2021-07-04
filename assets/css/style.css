@@ -92,3 +92,10 @@ img {
 #image-one p {
     font-size: x-large;
 }
+
+#about-us {
+    font-size: x-large;
+    font-weight: 200;
+    float: left;
+    text-decoration: underline;
+}
