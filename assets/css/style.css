@@ -15,12 +15,16 @@ body {
 
 /* header */
 
+header {
+    background-color: #477282;
+}
+
 h1 {
     text-align: center;
     font-size: 400%;
     letter-spacing: 2px;
     font-weight: 400;
-    color: #477282;
+    color: azure;
 }
 
 #heading {
@@ -47,7 +51,7 @@ ul li a {
     font-size: 140%;
     font-family: roboto, sans-serif;
     padding: 0 20px;
-    color: #477282;
+    color: azure;
 }
 
 /* footer */
@@ -60,14 +64,18 @@ ul li a {
  }
 
  .yoga-studio {
+     background-color: #477282;
      font-size: 22px;
      float: left;
      padding: 40px 20px 10px 20px;
+     color: azure;
  }
 
  .social-networks {
+     background-color: #477282;
+     padding: 2px 20px 20px 2px;
+     width: 100%;
      float: right;
-     padding: 2px 20px 20px 2px
  }
 
 /* home page */
@@ -82,7 +90,7 @@ img {
     width: 400px;
     border-radius: 50px;
     height: 400px;
-    padding: 5px;
+    padding: 20px;
 }
 
 #image-one {
@@ -93,9 +101,16 @@ img {
     font-size: x-large;
 }
 
-#about-us {
-    font-size: x-large;
-    font-weight: 200;
+.about-us {
     float: left;
+    padding: 20px;
+    font-size: 25px;
+    font-style: bold;
     text-decoration: underline;
+}
+
+.summary {
+    float: left;
+    padding: 7px 20px 20px;
+    font-size: 18px;
 }
