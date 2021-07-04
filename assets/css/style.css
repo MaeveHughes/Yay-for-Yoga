@@ -150,3 +150,49 @@ img {
     right: 10%;
     top: 140%;
 }
+
+/* Yoga Classes */
+
+.gallery {
+    float: left;
+    width: 30%;
+    padding: 3px;
+}
+
+.vinyasa {
+    font-size: 16px;
+    padding: 17px;
+}
+
+.hatha {
+    font-size: 16px;
+    padding: 17px;
+}
+
+.lyenda {
+    font-size: 16px;
+    padding: 17px;
+}
+
+/* Benefits of Yoga */
+
+.benefits-of-yoga {
+    text-align: center;
+    text-decoration: underline;
+    padding: 20px;
+}
+
+.yoga-benefits {
+    width: 300px;
+    border: 10px solid #477282;
+    padding: 50px;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    display: list-item;
+    list-style-position: inside;
+  }
