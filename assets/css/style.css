@@ -214,5 +214,38 @@ li {
     text-align: center;
   }
 
+  /* Contact Us */
+
+  .contact-us {
+    clear: left;
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+  }
+
+  .form {
+    margin: 150px 10% 0 0;
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
+  }
+
+  .input {
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid;
+    border-radius: 2px;
+  }
+
+  .join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    display: block;
+
 
 
