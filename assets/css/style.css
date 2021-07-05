@@ -229,6 +229,9 @@ li {
     position: absolute;
     left: 10%;
     padding: 30px;
+    font-weight: bold;
+    color: #477282;
+    font-size: 20px;
   }
 
   .input {
@@ -252,6 +255,20 @@ li {
       margin-left: 150px;
       margin-top: 40px;
       font-size: 20px;
+  }
+
+  .submit {
+    background-color: #477282;
+    color: azure;
+    font-size: 20px;
+    padding: 10px 24px;
+    border-radius: 4px;
+  }
+
+  .submit:hover {
+    background-color: azure;
+    color: #477282;
+    border: 2px solid #474747
   }
 
 
