@@ -271,4 +271,10 @@ li {
     border: 2px solid #474747
   }
 
+  .send-message {
+    width: 200%;
+    height: 150px;
+    margin: 10px 0 40px 0;
+  }
+
 
