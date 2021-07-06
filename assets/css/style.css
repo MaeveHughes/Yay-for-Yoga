@@ -86,7 +86,7 @@ ul li a {
     justify-content: center;
 }
 
-.picture-one {
+img {
     width: 400px;
     border-radius: 50px;
     height: 400px;
@@ -116,7 +116,7 @@ ul li a {
 }
 
 .openinghours {
-    font-weight: bold;
+    text-decoration: bold;
     text-align: center;
     border-radius: 50px;
     margin: 50px;
@@ -148,7 +148,7 @@ ul li a {
     border-radius: 50%;
     position: absolute;
     right: 10%;
-    top: 1000px;
+    top: 140%;
 }
 
 /* Yoga Classes */
