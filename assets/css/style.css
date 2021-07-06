@@ -105,7 +105,7 @@ ul li a {
 .summary {
     float: left;
     padding: 7px 20px 20px;
-    font-size: 18px;
+    font-size: 21px;
 }
 
 .openinghours {
@@ -127,21 +127,12 @@ ul li a {
     padding:10px;
 }
 
-#image-two{
-    width: 80px;
-    display: inline-block;
-}
-
-#image-two img{
-    margin: 60px;
-    float: right;
-    max-width: 800px;
-    height: 360px;
-    padding: 20px 40px 20px 40px;
+.image-two {
+    width: 40%;
+    height: auto;
     border-radius: 50%;
-    position: absolute;
-    right: 10%;
-    top: 140%;
+    float: right;
+    padding: 20px 150px;
 }
 
 /* Yoga Classes */
