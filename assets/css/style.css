@@ -95,8 +95,8 @@ ul li a {
 }
 
 .about-us {
-    float: left;
-    padding: 20px;
+    text-align: left;
+    padding: 90px 20px 20px 20px;
     font-size: 25px;
     font-style: bold;
     text-decoration: underline;
