@@ -105,7 +105,7 @@ img {
     float: left;
     padding: 20px;
     font-size: 25px;
-    font-style: bold;
+    font-weight: bold;
     text-decoration: underline;
 }
 
@@ -116,7 +116,7 @@ img {
 }
 
 .openinghours {
-    text-decoration: bold;
+    font-weight: bold;
     text-align: center;
     border-radius: 50px;
     margin: 50px;
