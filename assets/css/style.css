@@ -86,7 +86,7 @@ ul li a {
     justify-content: center;
 }
 
-img {
+.picture-one {
     width: 400px;
     border-radius: 50px;
     height: 400px;
@@ -105,7 +105,7 @@ img {
     float: left;
     padding: 20px;
     font-size: 25px;
-    font-weight: bold;
+    font-style: bold;
     text-decoration: underline;
 }
 
@@ -148,7 +148,7 @@ img {
     border-radius: 50%;
     position: absolute;
     right: 10%;
-    top: 140%;
+    top: 1000px;
 }
 
 /* Yoga Classes */
