@@ -121,10 +121,15 @@ ul li a {
 
 .table tr td {
     font-weight:bold;
+    font-size: 18px;
 }
 
 .table tr td {
     padding:10px;
+}
+
+.table {
+    padding: 25px;
 }
 
 .image-two {
