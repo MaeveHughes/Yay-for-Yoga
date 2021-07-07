@@ -5,6 +5,7 @@
     padding: 0;
     border: none;
     text-decoration: none;
+    box-sizing: border-box;
 }
 
 body {
@@ -142,26 +143,24 @@ h1 {
 
 /* Yoga Classes */
 
-.gallery {
+/*Adding the images side by side*/
+
+.yoga-type {
+    height: 500px;
+    width: 33.33%;
     float: left;
-    width: 30%;
-    padding: 3px;
+    padding: 5px;
 }
 
-.vinyasa {
-    font-size: 16px;
-    padding: 17px;
+.yoga-type::after {
+    content: " ";
+    display: table;
+    clear: both;
 }
 
-.hatha {
-    font-size: 16px;
-    padding: 17px;
-}
+/*Aligning the text underneath the images*/
 
-.lyenda {
-    font-size: 16px;
-    padding: 17px;
-}
+
 
 /* Benefits of Yoga */
 
