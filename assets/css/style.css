@@ -210,7 +210,6 @@ header {
     padding: 30px;
 }
 
-
 .yoga-benefits {
     width: 700px;
     border: 7px solid #477282;
@@ -233,7 +232,6 @@ header {
     margin-left: 25%;
     margin-right: 25%;
   }
-
 
   /* Contact Us */
 
@@ -302,7 +300,7 @@ header {
   }
 
   /* Contact box */
-  
+
 .contact-box {
     border: 2px dotted #477282;
     padding: 30px;
@@ -310,6 +308,13 @@ header {
     display: block;
     margin: 40px auto;
     font-size: 20px;
+}
+
+/* Map */
+
+.map {
+    text-align: center;
+    margin-bottom: 40px;
 }
 
 
