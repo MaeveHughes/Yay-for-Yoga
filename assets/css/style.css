@@ -219,12 +219,11 @@ h1 {
 
   /* Video */
 
-  .class {
+  .video {
     padding: 50px;
-    margin: 20px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 25%;
+    margin-right: 25%;
   }
 
 
