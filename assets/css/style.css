@@ -219,7 +219,7 @@ h1 {
 
   /* Video */
 
-  iframe {
+  .class {
     padding: 50px;
     margin: 20px;
     display: block;
