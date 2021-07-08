@@ -141,11 +141,11 @@ header {
 /* Image two on the home page beside the opening hours */
 
 .image-two {
-    width: 40%;
-    height: auto;
-    border-radius: 50%;
     float: right;
-    padding: 20px 150px;
+    border-radius: 50%;
+    height: 520px;
+    padding-right: 5%;
+    padding-left: 5%;
 }
 
 /* Yoga Classes */
