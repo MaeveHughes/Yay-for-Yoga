@@ -20,15 +20,12 @@ header {
     background-color: #477282;
 }
 
-h1 {
+#heading  {
     text-align: center;
     font-size: 400%;
     letter-spacing: 2px;
     font-weight: 400;
     color: azure;
-}
-
-#heading {
     font-family: roboto, sans-serif;
     padding: 60px;
 }
