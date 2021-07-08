@@ -147,19 +147,50 @@ h1 {
 
 .yoga-type {
     height: 500px;
-    width: 33.33%;
-    float: left;
-    padding: 5px;
 }
 
-.yoga-type::after {
-    content: " ";
-    display: table;
-    clear: both;
+.holdingcontainer {
+    width: 100%;
+    display: flex;
+    background: azure;
+    box-sizing: border-box;
+    flex-direction: row;
 }
 
-/*Aligning the text underneath the images*/
+.internalcontainerl {
+    flex: 1;
+    background: #477282;
+    color: azure;
+    padding: 30px;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    margin: 2px;
+}
 
+.internalcontainerm {
+    flex: 1;
+    background: #477282;
+    color: azure;
+    padding: 30px;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    margin: 2px;
+}
+
+.internalcontainerr {
+    flex: 1;
+    background: #477282;
+    color: azure;
+    padding: 30px;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    margin: 2px;
+
+@media screen and (max-width:760px){
+    .holdingcontainer {
+        flex-direction: column;
+    }
+}
 
 
 /* Benefits of Yoga */
