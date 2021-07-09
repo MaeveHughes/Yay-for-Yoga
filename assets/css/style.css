@@ -116,6 +116,12 @@ header {
     font-weight: 400;
 }
 
+@media screen and (max-width:760px){
+    .quote {
+        font-size: 20px;
+    }
+}
+
 /* About us description under the first image on the home page */
 
 .about-us {
