@@ -52,6 +52,18 @@ header {
     color: azure;
 }
 
+/* Making the header compatible for all devices*/
+
+@media screen and (max-width:760px){
+    #heading {
+        font-size: 50px;
+    }
+
+    .unordered .list .menu {
+        font-size: 20px;
+    }
+}
+
 /* footer */
  footer {
     position: relative;
