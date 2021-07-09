@@ -94,7 +94,6 @@ header {
     .yoga-studio {
         font-size: 18px;
     }
-
 }
 
 /* home page */
@@ -151,7 +150,7 @@ header {
     font-size: 21px;
 }
 
-/* Making the quote compatible for all devices */
+/* Making the about us section compatible for all devices */
 
 @media screen and (max-width:760px){
     .about-us {
@@ -208,7 +207,7 @@ header {
     padding-left: 5%;
 }
 
-/* Making the opening hours box compatible for all devices */
+/* Making the image two compatible for all devices */
 
 @media screen and (max-width:760px){
     .image-two {
