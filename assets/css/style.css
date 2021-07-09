@@ -88,6 +88,15 @@ header {
      float: right;
  }
 
+ /* Making the footer compatible for all devices*/
+
+@media screen and (max-width:760px){
+    .yoga-studio {
+        font-size: 18px;
+    }
+
+}
+
 /* home page */
 
 /* First image appearing on the home page */
