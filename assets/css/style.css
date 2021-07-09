@@ -100,7 +100,7 @@ header {
     float: left;
 }
 
-/* Making the header compatible for all devices*/
+/* Making image-one compatible for all devices*/
 
 @media screen and (max-width:760px){
     .image-one {
@@ -116,9 +116,12 @@ header {
     font-weight: 400;
 }
 
+/* Making the quote compatible for all devices */
+
 @media screen and (max-width:760px){
     .quote {
         font-size: 20px;
+        padding: 2px 20px;
     }
 }
 
@@ -136,6 +139,21 @@ header {
     float: left;
     padding: 7px 20px 20px;
     font-size: 21px;
+}
+
+/* Making the quote compatible for all devices */
+
+@media screen and (max-width:760px){
+    .about-us {
+        font-size: 22px;
+        padding-top: 40px;
+    }
+
+    .summary {
+        float: left;
+        padding: 7px 20px 20px;
+        font-size: 20px;
+    }
 }
 
 /* Opening Hours */
