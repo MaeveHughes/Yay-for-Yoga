@@ -303,6 +303,7 @@ header {
     display: list-item;
     list-style-position: inside;
   }
+/* Making the benefits compatible for all devices */
 
   @media screen and (max-width:760px){
     .yoga-benefits {
@@ -321,6 +322,7 @@ header {
     margin-right: 25%;
   }
 
+
   /* Contact Us */
 
   .contact-us {
@@ -332,9 +334,21 @@ header {
 
 /* Contact details */
   .contact-box {
-    margin-left: 150px;
-    margin-top: 40px;
     font-size: 20px;
+    border: 2px dotted #477282;
+    padding: 30px;
+    width: 900px;
+    display: block;
+    margin: 40px auto;
+ }
+
+ /* Making the contact box compatible for all devices */
+
+ @media screen and (max-width:760px){
+    .contact-box {
+        font-size: 16px;
+        width: 100%;
+    }
  }
 
   /* Form */
@@ -386,17 +400,24 @@ header {
     height: 150px;
     margin: 10px 0 40px 0;
   }
+ /* Making the contact form compatible for all devices */
 
-  /* Contact box */
+ @media screen and (max-width:760px){
+    .send-message {
+        width: 100%;
+    }
 
-.contact-box {
-    border: 2px dotted #477282;
-    padding: 30px;
-    width: 900px;
-    display: block;
-    margin: 40px auto;
-    font-size: 20px;
+    .form {
+        font-size: 18px;
+    }
+
+    .submit {
+        font-size: 18px;
+    }
 }
+    
+
+
 
 /* Map */
 
