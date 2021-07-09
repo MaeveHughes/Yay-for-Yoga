@@ -292,6 +292,14 @@ header {
     list-style-position: inside;
   }
 
+  @media screen and (max-width:760px){
+    .yoga-benefits {
+        font-size: 20px;
+        padding: 25px;
+        width: 100%;
+    }
+}
+
   /* Video */
 
   .video {
