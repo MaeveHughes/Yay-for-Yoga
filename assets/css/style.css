@@ -172,14 +172,18 @@ header {
 .table tr td {
     font-weight:bold;
     font-size: 18px;
-}
-
-.table tr td {
     padding:10px;
 }
 
 .table {
     padding: 25px;
+}
+
+@media screen and (max-width:760px){
+    .table tr td {
+        font-size: 18px;
+        padding: 5px;
+    }
 }
 
 /* Image two on the home page beside the opening hours */
