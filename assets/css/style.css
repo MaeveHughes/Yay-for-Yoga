@@ -5,7 +5,6 @@
     padding: 0;
     border: none;
     text-decoration: none;
-    box-sizing: border-box;
 }
 
 body {
@@ -52,7 +51,7 @@ header {
     color: azure;
 }
 
-/* Making the header compatible for all devices*/
+/* Making the header compatible for all devices */
 
 @media screen and (max-width:760px){
     #heading {
@@ -88,7 +87,7 @@ header {
      float: right;
  }
 
- /* Making the footer compatible for all devices*/
+ /* Making the footer compatible for all devices */
 
 @media screen and (max-width:760px){
     .yoga-studio {
@@ -218,7 +217,7 @@ header {
 
 /* Yoga Classes */
 
-/*Adding the images side by side*/
+/* Adding the images side by side */
 
 .yoga-type {
     height: 500px;
@@ -262,7 +261,7 @@ header {
     margin: 2px;
 }
 
-/* Making the images compatible for all devices*/
+/* Making the images compatible for all devices */
 
 @media screen and (max-width:760px){
     .holdingcontainer {
@@ -303,6 +302,7 @@ header {
     display: list-item;
     list-style-position: inside;
   }
+
 /* Making the benefits compatible for all devices */
 
   @media screen and (max-width:760px){
@@ -331,6 +331,7 @@ header {
     height: 80%;
     width: 90%;
     position: absolute;
+  }
 
   /* Contact Us */
 
@@ -342,6 +343,7 @@ header {
   }
 
 /* Contact details */
+
   .contact-box {
     font-size: 20px;
     border: 2px dotted #477282;
@@ -409,6 +411,7 @@ header {
     height: 150px;
     margin: 10px 0 40px 0;
   }
+
  /* Making the contact form compatible for all devices */
 
  @media screen and (max-width:760px){
@@ -424,9 +427,6 @@ header {
         font-size: 18px;
     }
 }
-    
-
-
 
 /* Map */
 
@@ -458,9 +458,3 @@ header {
     margin-right: 45px;
     }
 }
-
-
-
-
-
-
