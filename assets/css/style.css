@@ -316,12 +316,21 @@ header {
   /* Video */
 
   .video {
-    padding: 50px;
-    display: block;
+    overflow: hidden;
+    padding-top: 5%;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
     margin-left: 25%;
     margin-right: 25%;
   }
 
+  .video iframe {
+    left: 0;
+    right: 0;
+    height: 80%;
+    width: 90%;
+    position: absolute;
 
   /* Contact Us */
 
@@ -447,7 +456,7 @@ header {
     .map {
     margin-left: 45px;
     margin-right: 45px;
-
+    }
 }
 
 
