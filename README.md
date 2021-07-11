@@ -34,3 +34,7 @@
 
     ### Wireframes
     -   Home Page Wireframe - [View](https://github.com/MaeveHughes/Yay-for-Yoga/blob/main/assets/images/home.png)
+    -   Classes Page Wireframe - [View](https://github.com/MaeveHughes/Yay-for-Yoga/blob/main/assets/images/classes.png)
+    -   Contact Us Page Wireframe - [View](https://github.com/MaeveHughes/Yay-for-Yoga/blob/main/assets/images/contact.png)
+
+    
