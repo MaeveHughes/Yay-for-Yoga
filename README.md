@@ -45,3 +45,27 @@
 
 -   Interactive elements.
 
+## Technologies Used
+
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+1. [Hover.css:](https://ianlunn.github.io/Hover/)
+    - Hover.css was used on the Send Message button on the Contact page to add a colour transition while being hovered over.
+1. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the Jost and Roboto font into the style.css file which is used on all pages throughout the project.
+1. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on the footer, the classes page and the contact page throughout the website to add icons that are pleasing to the eye.
+1. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+1. [Pexels:](https://www.pexels.com/)
+    - Pexels was used to provide the imagery on the webage.
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the wireframes during the design process (see wireframes above).
+
