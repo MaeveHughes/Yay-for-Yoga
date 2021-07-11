@@ -222,8 +222,9 @@ header {
 
 @media screen and (max-width:760px){
     .image-two {
-        height: 350px;
+        height: 270px;
         padding-bottom: 20px;
+        margin-top: 20px;
     }
 }
 
