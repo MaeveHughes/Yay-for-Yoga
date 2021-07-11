@@ -128,6 +128,18 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     3. As a Frequent User, I want to check there is any changes to the opening hours.
         1. The user would be aware that the opening hours would be on the home page, so they would be able to find any adjustments made easily.
 
+        ### Further Testing
+
+-   The Website was tested on Google Chrome, Internet Explorer and Safari browsers.
+-   The website was viewed on a variety of devices such as Laptop, iPhone & Galaxy S5.
+-   All links were tested multiple times on different devices.
+
+### Known Bugs
+
+-   On some mobile devices the images on the classes page are distorted.
+
+
+
         
 
 
