@@ -57,15 +57,22 @@
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
     - Hover.css was used on the Send Message button on the Contact page to add a colour transition while being hovered over.
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the Jost and Roboto font into the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import the Jost and Roboto font into the style.css file which is used on all pages throughout the website.
 1. [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was used on the footer, the classes page and the contact page throughout the website to add icons that are pleasing to the eye.
+    - Font Awesome was used on the footer, the classes page and the contact page on the website to add icons that are pleasing to the eye.
 1. [Git](https://git-scm.com/)
-    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+    - Git was used for version control by using Gitpod to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
-    - GitHub is used to store the projects code after being pushed from Git.
+    - After being pushed from Git, GitHub is used to store the projects code.
 1. [Pexels:](https://www.pexels.com/)
     - Pexels was used to provide the imagery on the webage.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the wireframes during the design process (see wireframes above).
+
+    ## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 
