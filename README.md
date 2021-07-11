@@ -37,4 +37,11 @@
     -   Classes Page Wireframe - [View](https://github.com/MaeveHughes/Yay-for-Yoga/blob/main/assets/images/classes.png)
     -   Contact Us Page Wireframe - [View](https://github.com/MaeveHughes/Yay-for-Yoga/blob/main/assets/images/contact.png)
 
-    
+    ## Features
+
+-   Compatible for all devices.
+
+-   Accessible to all users.
+
+-   Interactive elements.
+
