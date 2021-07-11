@@ -92,9 +92,42 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         2. On the contact page you are first shown the contact details including the postal address.
         3. Underneath the contact form on the contact page there is a google map. The google map can be outsourced to the google maps webpage from there you can look up directions.
 
-    3. As a First Time Visitor, 
+    3. As a First Time Visitor, I want to find the studio on social media.
         1. The social media links can be found on the footer on every page of the website.
         2. The website provides a link to all the major social media platforms; facebook, twitter, youtube and instagram.
-        3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
+        3. User is adviced on the contact page that theu have the option to contact the studio through their social media platflorms.
+
+        -   #### Returning Visitor Goals
+
+    1. As a Returning Visitor, I want to find information about the classes they have to offer.
+
+        1. On the navigation bar on the top of every page there is a button for Classes. On the classes page under the benefits of yoga the user can see a grid of the classes that the studio has to offer.
+        2. There is three classes available. The website also provides a detailed description of the classes with a corresponding image.
+        3. If the user hovers over the image they will see a title of what the class is called.
+
+    2. As a Returning Visitor, I want to know the opening hours.
+
+        1. The opening hours can be found on the home page under the about us.
+        2. The opening hours are laid out nicely in a box, clearly stating the days of the week and the opening hours beside the days.
+
+    3. As a Returning Visitor, I want to find the best way to contact the studio.
+        1. The first thing the user will find on the contact page is the phone number, the email and the postal address.
+        2. There is a google map on the contact page which will provide users with the exact location and the opportunity to pull up the directions online.
+        3. Alternatively, the user can scroll to the bottom of the any of the pages to find the link to the social media pages.
+
+        -   #### Frequent User Goals
+
+    1. As a Frequent User, I want to check to see if there are any newly added classes.
+
+        1. The user would already be familiar with the website layout and can easily check the classes on the appropriate page.
+
+    2. As a Frequent User, I want to check to see if there is news on upcoming events.
+
+        1. The user would already be comfortable with the website layout and can check if there is any events added to the webpage.
+
+    3. As a Frequent User, I want to check there is any changes to the opening hours.
+        1. The user would be aware that the opening hours would be on the home page, so they would be able to find any adjustments made easily.
+
+        
 
 
