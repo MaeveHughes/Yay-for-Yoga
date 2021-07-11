@@ -183,7 +183,7 @@ header {
 }
 
 .table tr td {
-    font-weight: bold;
+    font-weight:bold;
     font-size: 18px;
     padding: 10px;
 }
@@ -201,8 +201,11 @@ header {
     }
 
     .openinghours {
-        margin: 0;
-        border-radius: 0;
+        margin: 5px;
+        display: block;
+        padding: 50px;
+        border-radius: 400px;
+        }
 }
 
 /* Image two on the home page beside the opening hours */
@@ -219,9 +222,8 @@ header {
 
 @media screen and (max-width:760px){
     .image-two {
-        height: 250px;
-        margin-bottom: 40px;
-        padding-top: 20px;
+        height: 350px;
+        padding-bottom: 20px;
     }
 }
 
