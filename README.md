@@ -33,4 +33,4 @@
         -   The iamges on the home page is designed to draw the users in and catch their attention while they are reading about what the studio has to offer. The images used on the classes page correspond with the description of the classes. This will provide the users with an insight on what to expect if they sign up to the classes.
 
     ### Wireframes
-        -   ![Home Page](home.png)
+        -   ![Home Page](assets/images/home.png)
