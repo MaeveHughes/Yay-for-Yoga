@@ -23,3 +23,14 @@ This is the main marketing website for Yay for Yoga. It is designed to provide w
         1. As a Frequent User, I want to check to see if there are any newly added classes.
         2. As a Frequent User, I want to check to see if there is news on upcoming events.
         3. As a Frequent User, I want to check there is any changes to the opening hours.
+
+-   ### Design
+    -   #### Colour Scheme
+        -   The two main colours used are light blue (azure) and dark blue (#477282).
+    -   #### Typography
+        -   The Jost and Roboto font are the two main fonts used throughout the website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. The Jost and Roboto font are great fonts that work well together to produce a eligible webpage.
+    -   #### Imagery
+        -   The iamges on the home page is designed to draw the users in and catch their attention while they are reading about what the studio has to offer. The images used on the classes page correspond with the description of the classes. This will provide the users with an insight on what to expect if they sign up to the classes.
+
+    ### Wireframes
+   
