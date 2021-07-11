@@ -13,6 +13,11 @@ body {
     background-color: azure;
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 /* header */
 
 header {
@@ -111,7 +116,7 @@ header {
 
 @media screen and (max-width:760px){
     .image-one {
-        width: 100%;
+        width: 90%;
         padding: 20px;
     }
 }
