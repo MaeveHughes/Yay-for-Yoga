@@ -19,7 +19,7 @@
         2. As a Returning Visitor, I want to know the opening hours.
         3. As a Returning Visitor, I want to find the best way to contact the studio.
 
-    -   #### Frequent User Goals
+   -   #### Frequent User Goals
         1. As a Frequent User, I want to check to see if there are any newly added classes.
         2. As a Frequent User, I want to check to see if there is news on upcoming events.
         3. As a Frequent User, I want to check there is any changes to the opening hours.
