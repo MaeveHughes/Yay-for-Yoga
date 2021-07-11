@@ -73,6 +73,28 @@
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C Markup Validator](https://validator.w3.org/)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
+
+### Testing User Stories from User Experience (UX) Section
+
+-   #### First Time Visitor Goals
+
+    1. As a First Time Visitor, I want to learn more about Yay for Yoga.
+
+        1. Users are greeted with a well laid out and eligible navigation bar to go to the page of their choice. Underneath there is an image of a woman doing yoga and a quote by Judith Hanson Lasater.
+        2. Underneath there is an image of a woman doing yoga and a quote by Judith Hanson Lasater.
+        3. The user has the opportunity to scroll down and learn more about the studio.
+
+    2. As a First Time Visitor, I want to know where to find the studio. 
+
+        1. The website has a clear and precise navigation bar which has a contact button.
+        2. On the contact page you are first shown the contact details including the postal address.
+        3. Underneath the contact form on the contact page there is a google map. The google map can be outsourced to the google maps webpage from there you can look up directions.
+
+    3. As a First Time Visitor, 
+        1. The social media links can be found on the footer on every page of the website.
+        2. The website provides a link to all the major social media platforms; facebook, twitter, youtube and instagram.
+        3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
+
 
