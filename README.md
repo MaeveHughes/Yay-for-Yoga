@@ -134,6 +134,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   The website was viewed on a variety of devices such as Laptop, iPhone & Galaxy S5.
 -   All links were tested multiple times on different devices.
 
+![](image responsivedesign.png)
+
 ### Known Bugs
 
 -   On some mobile devices the images on the classes page are distorted.
