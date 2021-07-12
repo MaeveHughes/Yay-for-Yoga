@@ -137,6 +137,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### Known Bugs
 
 -   On some mobile devices the images on the classes page are distorted.
+-   Image two on the home page beside the opening hours is out of place on an iPad device.
 
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
