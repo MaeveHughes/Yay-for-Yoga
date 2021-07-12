@@ -55,7 +55,7 @@
 ### Frameworks, Libraries & Programs Used
 
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
-    - Hover.css was used on the Send Message button on the Contact page to add a colour transition while being hovered over.
+    - Hover.css was used on the "Send Message" button on the Contact page to add a colour transition while being hovered over.
 1. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the Jost and Roboto font into the style.css file which is used on all pages throughout the website.
 1. [Font Awesome:](https://fontawesome.com/)
