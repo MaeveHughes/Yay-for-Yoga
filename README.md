@@ -94,7 +94,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     3. As a First Time Visitor, I want to find the studio on social media.
         1. The social media links can be found on the footer on every page of the website.
-        2. The website provides a link to all the major social media platforms; facebook, twitter, youtube and instagram.
+        2. The website provides a link to all the major social media platforms; Facebook, Twitter, Youtube and Instagram.
         3. User is adviced on the contact page that theu have the option to contact the studio through their social media platflorms.
 
         -   #### Returning Visitor Goals
