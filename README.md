@@ -30,7 +30,7 @@
     -   #### Typography
         -   The Jost and Roboto font are the two main fonts used throughout the website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. The Jost and Roboto font are great fonts that work well together to produce a eligible webpage.
     -   #### Imagery
-        -   The images on the home page is designed to draw the users in and catch their attention while they are reading about what the studio has to offer. The images used on the classes page correspond with the description of the classes. This will provide the users with an insight on what to expect if they sign up to the classes.
+        -   The images on the home page are designed to draw the users in and catch their attention while they are reading about what the studio has to offer. The images used on the classes page correspond with the description of the classes. This will provide the users with an insight on what to expect if they sign up to the classes.
 
     ### Wireframes
     -   Home Page Wireframe - [View](https://github.com/MaeveHughes/Yay-for-Yoga/blob/main/assets/images/home.png)
