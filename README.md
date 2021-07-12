@@ -145,7 +145,32 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   - The page will be automatically refreshed.
   - The site will be now published.
   
+  ## Credits
 
+  ### Header and Footer
+  - The header and footer design was assisted with tutorial notes and the love running project.
+
+  ### Home Page
+  - The images on the home page were taken from pexels.com, using W3Schools to help to style the images.
+  - The quote was taken from goodreads.com.
+  - The about us was created by the developer.
+  - The opening hours was created by the developer with the assitance from W3Schools for the design.
+
+   ### Classes page
+   - The images on the home page were taken from pexels.com, using W3Schools to help to style the images. The images and text were designed using flexbox which was learnt from https://www.youtube.com/watch?v=fYq5PXgSsbE&t=34s.
+   - The benefits of yoga was taken from hopkinsmedicine.org, using W3Schools to help to style the border.
+   - The video was taken from Youtube.com and used the following youtube video to assist in embedding the video: https://www.youtube.com/watch?v=9YffrCViTVk&t=78s
+
+   ### Contact page
+   - The contact details were created by the developer, using W3Schools to help to style the border.
+   - Instructions on how to make a contact form was taken from https://www.youtube.com/watch?v=UAWhbMDBGW4.
+   - The map was taken from google maps and instructions on how to insert was taken from https://www.youtube.com/watch?v=KIC0OK9nKXY.
+
+### Acknowledgements
+
+-   My Mentor for continuous helpful feedback and assistance.
+
+-   Tutor support at Code Institute and my friends from my course for their support and guidance.
 
         
 
