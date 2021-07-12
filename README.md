@@ -39,7 +39,7 @@
 
     ## Features
 
--   Compatible for all devices.
+-   Compatible for phones and laptops.
 
 -   Accessible to all users.
 
