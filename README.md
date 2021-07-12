@@ -82,7 +82,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     1. As a First Time Visitor, I want to learn more about Yay for Yoga.
 
-        1. Users are greeted with a well laid out and eligible navigation bar to go to the page of their choice. Underneath there is an image of a woman doing yoga and a quote by Judith Hanson Lasater.
+        1. Users are greeted with a well laid out and eligible navigation bar to go to the page of their choice. 
         2. Underneath there is an image of a woman doing yoga and a quote by Judith Hanson Lasater.
         3. The user has the opportunity to scroll down and learn more about the studio.
 
