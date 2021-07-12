@@ -15,7 +15,7 @@
 
     -   #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I want to find information about the classes they have to offer.
+        1. As a Returning Visitor, I want to find information about the classes and what they have to offer.
         2. As a Returning Visitor, I want to know the opening hours.
         3. As a Returning Visitor, I want to find the best way to contact the studio.
 
