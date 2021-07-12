@@ -134,7 +134,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   The website was viewed on a variety of devices such as Laptop, iPhone & Galaxy S5.
 -   All links were tested multiple times on different devices.
 
-![Image of Responsive Design](http://ami.responsivedesign.is/#)
+![Image of Responsive Design](https://github.com/MaeveHughes/Yay-for-Yoga/blob/main/assets/images/responsivedesign.png)
 
 ### Known Bugs
 
