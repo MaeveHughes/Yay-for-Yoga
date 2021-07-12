@@ -144,8 +144,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - Once logged into the GitHub repository, navigate to the Settings tab. 
-  - Scroll down the page until you reach github pages.
-  - Pages settings now has its own dedicated tab. Click on check it out here.
+  - Scroll down the page until you reach Github Pages.
+  - Github Pages now has its own dedicated tab. Click on check it out here.
   - Drop down at the source and select main.
   - Click save and your site has now been published.
   
