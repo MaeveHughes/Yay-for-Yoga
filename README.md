@@ -162,7 +162,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
    ### Classes page
    - The images on the home page were taken from pexels.com, using W3Schools to help to style the images. The images and text were designed using flexbox which was learnt from https://www.youtube.com/watch?v=fYq5PXgSsbE&t=34s.
    - The benefits of yoga was taken from hopkinsmedicine.org, using W3Schools to help to style the border.
-   - The video was taken from Youtube.com and used the following youtube video to assist in embedding the video: https://www.youtube.com/watch?v=9YffrCViTVk&t=78s
+   - The video was taken from Youtube and used the following youtube video to assist in embedding the video: https://www.youtube.com/watch?v=9YffrCViTVk&t=78s
 
    ### Contact page
    - The contact details were created by the developer, using W3Schools to help to style the border.
